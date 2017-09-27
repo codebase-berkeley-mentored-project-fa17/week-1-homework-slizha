@@ -22,11 +22,6 @@
    environment (for example, if you need to work on another project that uses Python) just type in the command `deactivate` (works on
    both Linux/Mac and Windows). You can always activate it again when you work on this code.
 
-4. Once you've activated your virtual environment, install all of the project dependencies with the command
-   ```
-   pip install -r requirements.txt
-   ```
-
 ### Submitting the Homework
 
 Your submissions will be done through git. We'll automatically run tests against each git commit - you can see the results
