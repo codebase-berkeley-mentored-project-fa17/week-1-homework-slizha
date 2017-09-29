@@ -8,6 +8,7 @@ def get_max(array):
     # Question 1
     # Change the function code so that it works as expected.
     ########################################################
-    # REPLACE THE NEXT LINE WITH YOUR CODE
-    return None
+    if not array:
+        return None
+    return max(array)
     ########################################################
